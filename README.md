@@ -104,11 +104,11 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhandle](https://twitter.com/Kimiri836)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/wilson-kimiri/)
 
-👤 **Author2**
+👤 **Gaurav Gangwar**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/gauravgangwarweb)
+- Twitter: [@twitterhandle](https://twitter.com/GauravGangwar51)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/gauravgangwarweb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
