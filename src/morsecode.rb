@@ -28,23 +28,23 @@
 }
 
 def decode_char(char)
-    @morse_code[char]
+  @morse_code[char]
 end
 
 def decode_word(word)
-    @output = ''
-    word.split.each do |char|
-        @output += decode_char(char)
-    end
-    @output
+  @output = ''
+  word.split.each do |char|
+    @output += decode_char(char)
+  end
+  @output
 end
 
 def decode_message(msg)
-    @output = ''
-    msg.split('   ').each do |word|
-        @output += "#{decode_word(word)} "
-    end
-    @output
+  @output = ''
+  msg.split('   ').each do |word|
+    @output += "#{decode_word(word)} "
+  end
+  @output
 end
 
 puts decode_message('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
