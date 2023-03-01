@@ -39,4 +39,12 @@ def decode_word(word)
     @output
 end
 
-# ADD CODE HERE
+def decode_message(msg)
+    @output = ''
+    msg.split('   ').each do |word|
+        @output += "#{decode_word(word)} "
+    end
+    @output
+end
+
+puts decode_message('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
